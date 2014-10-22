@@ -22,4 +22,4 @@ resources:
   Type: git
   Url: git://github.com/xantronix/Mail-Dir.git
   Web: https://github.com/xantronix/Mail-Dir
-version: '0.01'
+version: '0.02'
